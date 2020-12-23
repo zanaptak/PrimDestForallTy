@@ -12,7 +12,7 @@
       <PackageReference Include="Fable.Elmish" Version="3.1.0" />
       <PackageReference Include="Fable.Elmish.React" Version="3.0.1" />
       <PackageReference Include="Fable.React" Version="7.2.0" />
-      <PackageReference Include="Feliz" Version="0.6.0" />
+      <PackageReference Include="Feliz" Version="0.5.0" />
     </ItemGroup>
     <ItemGroup>
       <PackageReference Update="FSharp.Core" Version="5.0.0" />
